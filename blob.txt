@@ -1,0 +1,10 @@
+8 15
+0 0
+PSSSSSS########
+######S###PS###
+@SSSSSP#SSSPSS#
+########S####@#
+###S####PS#####
+@SSS#SS####@SS#
+#S####S#####P##
+###PPPSP##SSSPS
